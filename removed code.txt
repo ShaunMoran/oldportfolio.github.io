@@ -1,0 +1,84 @@
+<!--
+							Fun Fact
+						-->
+						<div class="content fuct">
+							<div class="row">
+								<div class="col col-m-12 col-t-12 col-d-12 col-d-lg-12">
+
+									<!-- title -->
+									<div class="title"><span>Fun</span> Facts</div>
+
+								</div>
+							</div>
+				
+							
+
+						</div>
+<!-- fuct items -->
+							<div class="row fuct-items">
+
+								<!-- fuct item -->
+								<div class="col col-m-6 col-t-6 col-d-3 col-d-lg-3">
+									<div class="fuct-item card-box">
+										<div class="icon"><i class="la la-headphones"></i></div>
+										<div class="name">Passion for Music</div>
+									</div>
+								</div>
+
+								<!-- fuct item -->
+								<div class="col col-m-6 col-t-6 col-d-3 col-d-lg-3">
+									<div class="fuct-item card-box">
+										<div class="icon"><i class="la la-trophy"></i></div>
+										<div class="name">15 Awards Won</div>
+									</div>
+								</div>
+
+								<!-- fuct item -->
+								<div class="col col-m-6 col-t-6 col-d-3 col-d-lg-3">
+									<div class="fuct-item card-box">
+										<div class="icon"><i class="la la-lightbulb-o"></i></div>
+										<div class="name">54 Projects Completed</div>
+									</div>
+								</div>
+
+								<!-- fuct item -->
+								<div class="col col-m-6 col-t-6 col-d-3 col-d-lg-3">
+									<div class="fuct-item card-box">
+										<div class="icon"><i class="la la-flag-o"></i></div>
+										<div class="name">10 Countries Visited</div>
+									</div>
+								</div>
+
+								<!-- fuct item -->
+								<div class="col col-m-6 col-t-6 col-d-3 col-d-lg-3">
+									<div class="fuct-item card-box">
+										<div class="icon"><i class="la la-book"></i></div>
+										<div class="name">50+ Books Readed</div>
+									</div>
+								</div>
+
+								<!-- fuct item -->
+								<div class="col col-m-6 col-t-6 col-d-3 col-d-lg-3">
+									<div class="fuct-item card-box">
+										<div class="icon"><i class="la la-code"></i></div>
+										<div class="name">100 000 Lines of Code</div>
+									</div>
+								</div>
+
+								<!-- fuct item -->
+								<div class="col col-m-6 col-t-6 col-d-3 col-d-lg-3">
+									<div class="fuct-item card-box">
+										<div class="icon"><i class="la la-smile-o"></i></div>
+										<div class="name">49 Satisfied Customers</div>
+									</div>
+								</div>
+
+								<!-- fuct item -->
+								<div class="col col-m-6 col-t-6 col-d-3 col-d-lg-3">
+									<div class="fuct-item card-box">
+										<div class="icon"><i class="la la-bicycle"></i></div>
+										<div class="name">1250 km Cycled</div>
+									</div>
+								</div>
+
+							</div>68:14 PM 2/28/2020
